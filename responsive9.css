@@ -1,0 +1,54 @@
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 10px;
+  }
+  .rrspnsv-btn {
+    display: inline;
+  }
+
+  nav ul li {
+    display: none;
+  }
+
+  h1 {
+    font-size: 10px;
+  }
+  h2 {
+    font-size: 8px;
+  }
+  button {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  body {
+    font-size: 8px;
+  }
+
+  h2 {
+    font-size: 8px;
+  }
+  .rrspnsv-btn {
+    display: block;
+  }
+
+  nav ul li {
+    display: none;
+  }
+
+  h1 {
+    font-size: 8px;
+  }
+
+  h2 {
+    font-size: 8px;
+  }
+  button {
+    width: 50%;
+    height: 50%;
+    font-size: 8px;
+  }
+}
+
+
